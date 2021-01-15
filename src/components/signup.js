@@ -1,6 +1,5 @@
 import React from "react";
 import {
-  TextareaAutosize,
   Grid,
   Paper,
   Avatar,
